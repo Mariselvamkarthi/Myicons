@@ -1,14 +1,26 @@
-@font-face {
+/*@font-face {
   font-family: 'icomoon';
   src: url('https://cdn.jsdelivr.net/gh/Mariselvamkarthi/Myicons/fonts/icomoon.woff2') format('woff2');
-  /*src:  url('fonts/icomoon.eot?d1d5gk');*/
-  /*src:  url('fonts/icomoon.eot?d1d5gk#iefix') format('embedded-opentype'),*/
+  src:  url('fonts/icomoon.eot?d1d5gk');
+  src:  url('fonts/icomoon.eot?d1d5gk#iefix') format('embedded-opentype'),
     url('fonts/icomoon.ttf?d1d5gk') format('truetype'),
     url('fonts/icomoon.woff?d1d5gk') format('woff'),
     url('fonts/icomoon.svg?d1d5gk#icomoon') format('svg');
+
   font-weight: normal;
   font-style: normal;
   font-display: block;
+}*/
+@font-face {
+  font-family: 'icomoon';
+  src: url('https://cdn.jsdelivr.net/gh/Mariselvamkarthi/Myicons/fonts/icomoon.eot?d1d5gk');
+  src: url('https://cdn.jsdelivr.net/gh/Mariselvamkarthi/Myicons/fonts/icomoon.eot?d1d5gk#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/Mariselvamkarthi/Myicons/fonts/icomoon.woff2?d1d5gk') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/Mariselvamkarthi/Myicons/fonts/icomoon.woff?d1d5gk') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/Mariselvamkarthi/Myicons/fonts/icomoon.ttf?d1d5gk') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/Mariselvamkarthi/Myicons/fonts/icomoon.svg?d1d5gk#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
