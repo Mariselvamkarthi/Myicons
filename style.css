@@ -40,7 +40,6 @@
 
 .icon-battery-empty:before {
   content: "\e901";
-  color: #868686;
 }
 .icon-battery-empty-1:before {
   content: "\e902";  
