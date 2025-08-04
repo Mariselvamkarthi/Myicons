@@ -43,38 +43,29 @@
   color: #868686;
 }
 .icon-battery-empty-1:before {
-  content: "\e902";
-  color: #868686;
+  content: "\e902";  
 }
 .icon-battery-full:before {
   content: "\e903";
-  color: #868686;
 }
 .icon-battery-full-1:before {
   content: "\e904";
-  color: #868686;
 }
 .icon-battery-full-2:before {
   content: "\e905";
-  color: #868686;
 }
 .icon-home:before {
   content: "\e906";
-  color: #868686;
 }
 .icon-home-2:before {
   content: "\e900";
-  color: #868686;
 }
 .icon-more-square:before {
   content: "\e907";
-  color: #868686;
 }
 .icon-tick-circle:before {
   content: "\e908";
-  color: #868686;
 }
 .icon-trash:before {
   content: "\e909";
-  color: #868686;
 }
